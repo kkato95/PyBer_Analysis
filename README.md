@@ -14,6 +14,7 @@ Then we observed the summation of fares in week intervals and per city type. The
 As we can see in Fig. 1, the urban cities has by far first when looking at the largest number of total rides, total drivers, and total fares. Suburban drivers have the second largest numbers with 1/2 of the total fares and 1/10 the total drivers. Rural is far behind with just 1/10 of the toal fares as the Urban drivers.
 
 A better illustrator are the Average Fare per Ride and Average Fare per Driver. The urban driver makes 10x the amount, on average, than that of the rural drivers. The average fare per ride in the urabn cities is 9.2x more expensive than the rural fare per ride and nearly 2x more expenive than suburban cities.
+
 ![pyber_summary_df](https://user-images.githubusercontent.com/99375741/160307869-ea530af2-5eb6-4e27-baba-d77603fad6e3.PNG)
 
 ### Create Multi-Line Plot to Show Total Weekly Fares Among Different Cities
